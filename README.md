@@ -24,14 +24,10 @@
 - Infra : AWS RDS, EC2
 
 ### ERD
+![friends_diagram](https://github.com/user-attachments/assets/52619643-e3f7-4cde-84d4-a07dd72ca821)
 
-![friends_diagram.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/31bf81ae-b363-4ce3-9394-34be8e7f21f8/friends_diagram.png)
-
-멤버는 하나의 뇌만 가질 수 있음. 
-
-멤버는 여러명의 친구를 가질 수 있음 
-
-하나의 뇌에 여러개의 Label을 가짐(관심사)
+### 역할 분담 및 협업 과정 
+기능별로 나눠서 각자 프론트엔드/백엔드 동시에 작업을 함
 
 # 웹 UI 및 화면 소개
 
