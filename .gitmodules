@@ -1,0 +1,3 @@
+[submodule "Friend-Frontend"]
+	path = Friend-Frontend
+	url = https://github.com/Madcamp-Friends/Friends_FrontEnd.git
